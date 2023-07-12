@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarang178
 - 👀 I’m interested in Salesforce, Laravel and Chess
-- 🌱 I’m currently learning Platform Developer 1 credentials.
+- 🌱 I’ve earned Platform Developer 1 and 2 credentials.
 - 💞️ I’m looking to collaborate on business solutions.
 - 📫 How to reach me sarang.sawane@gmail.com
 
